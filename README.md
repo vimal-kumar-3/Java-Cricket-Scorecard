@@ -13,7 +13,7 @@ A console-based cricket match simulation developed using Java.
 
 ## Technologies Used
 - Java
-- Object-Oriented Programming (OOP), if used in the implementation
+- Object-Oriented Programming (OOP)
 
 ## How to Run
 1. Clone or download this repository.
